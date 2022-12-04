@@ -29,7 +29,7 @@ function Hearth() {
                </div>
                <div className="text-center">
               
-                  <p className="mb-3">Grazie per giocare a Heardle Italia!</p>
+                  <p className="mb-3">Grazie per giocare a Heardle Italia Indie!</p>
                   <p className="mb-3">Hai qualche domanda o riscontri qualche bug? Scrivci su Twitter!</p>
                   <p class="mb-3">
                      <a href="https://twitter.com/HeardleIta" class="flex items-center no-underline" target="_blank" rel="noreferrer">

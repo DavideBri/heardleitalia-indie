@@ -1,16 +1,16 @@
-export const HEARDLE_IT_WEB_URL = "https://heardle.it";
+export const HEARDLE_IT_WEB_URL = "https://indie.heardle.it";
 export const HEARDLE_SPOTIFY_LIST_URL = "https://open.spotify.com/playlist/2JpsZD5kqsVleaNDEGSmND?si=906b4ac927714be6";
 
 export const GAME_RESULT_MESSAGES = [
-    "🏆 Qualcuno ha detto orecchio assuoluto? 🏆",
-    "WOW! Congratulazioni per averla riconosciuta così presto 🥳",
-    "Ooooh, sei stato velocissimo! 😁",
-    "Ottimo, sei un vero asso delle HIT! 🥳",
-    "E anche questa ce la siamo portati a casa!",
-    "Per un pelo... Domani andrà sicuramente meglio 😜"
+    "Ammazza che pischellettə indie",
+    "Chapeau.",
+    "Eeeeeasy",
+    "Ti sei meritatə una birra",
+    "Onesto.",
+    "Pe' poco, menomale"
 ];
 
-export const GAME_RESULT_FAILED_MESSAGE = "Non ti preoccupare, chiedi ai tuoi amici, magari loro la sanno!";
+export const GAME_RESULT_FAILED_MESSAGE = "Tranquillo zì, forse era troppo indie";
 
 export const STRING_COMPARE_LOCALE = "it";
 

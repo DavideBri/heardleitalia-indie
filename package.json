@@ -1,7 +1,7 @@
 {
   "name": "heardle-italia",
   "version": "2.0.0",
-  "homepage": "https://heardle.it",
+  "homepage": "https://indie.heardle.it",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",

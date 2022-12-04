@@ -31,7 +31,7 @@ const setSong = (day: string, selectedSong: any) => {
 
     let hardCodedSong = selectedSong;
 
-    set(ref(database, "songs/"+ day), hardCodedSong) 
+    set(ref(database, "/indie/songs/"+ day), hardCodedSong) 
             
 }
 
@@ -97,7 +97,7 @@ export const getDailySong = (accessToken: string): Promise<any> => {
         };
 
         
-        const songRef = ref(database, 'songs/' + day);
+        const songRef = ref(database, '/indie/songs/' + day);
         
         onValue(songRef, (snapshot) => {
             const data = snapshot.val();
